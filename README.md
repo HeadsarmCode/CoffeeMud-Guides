@@ -2,4 +2,4 @@
 CoffeeMud Guides
 
 
-[GMODIFY Guide for CoffeeMud.md](https://github.com/HeadsarmCode/CoffeeMud-Guides/edit/main/README.md)
+[GMODIFY Guide for CoffeeMud.md](https://github.com/HeadsarmCode/CoffeeMud-Guides/blob/main/GMODIFY%20Guide%20for%20CoffeeMud.md)
