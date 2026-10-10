@@ -1,4 +1,4 @@
-# GMODIFY Guide for CoffeeMud
+# GMODIFY Guide for CoffeeMud 5.11.0.1
 
 Oct 10, 2026 · Headsarm
 
